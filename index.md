@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "This is a blog about lice"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Ask me anzthing about lice
